@@ -2,8 +2,8 @@
  * Created by liuchungui on 16/10/2.
  */
 'use strict';
-require("angular");
-require("bootstrap");
+
+require("./common");
 
 var demoApp = angular.module('demoApp', []);
 

@@ -48,6 +48,7 @@
 	 * Created by liuchungui on 16/10/2.
 	 */
 	'use strict';
+
 	__webpack_require__(2);
 
 	var demoApp = angular.module('demoApp', []);
