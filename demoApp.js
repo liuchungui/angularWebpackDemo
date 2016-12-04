@@ -2,6 +2,9 @@
  * Created by liuchungui on 16/10/2.
  */
 'use strict';
+require("angular");
+require("bootstrap");
+
 var demoApp = angular.module('demoApp', []);
 
 demoApp.controller('demoController', function ($scope, $http) {
